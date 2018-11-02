@@ -152,4 +152,3 @@ alias path='echo -e ${PATH//:/\\n}'
 
 # Launch editors
 alias subl = 'open -a Sublime\ Text.app'
-alias edit = 'emacs'
